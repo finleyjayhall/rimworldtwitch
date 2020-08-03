@@ -219,14 +219,8 @@
 	{
 		"abr": "agavefruit",
 		"price": 2,
-		"category": "Fruits",
+		"category": "Vegetarian",
 		"defname": "RawAgave"
-	},
-	{
-		"abr": "agavemust",
-		"price": 17,
-		"category": "Alcohol precursor",
-		"defname": "VG_AgaveMust"
 	},
 	{
 		"abr": "agriculturalimplant",
@@ -403,18 +397,6 @@
 		"defname": "Ambrosia"
 	},
 	{
-		"abr": "ambrosiamust",
-		"price": 30,
-		"category": "Alcohol precursor",
-		"defname": "VG_AmbrosiaMust"
-	},
-	{
-		"abr": "ambrosiawine",
-		"price": 75,
-		"category": "Garden alcohol",
-		"defname": "VG_AmbrosiaWine"
-	},
-	{
 		"abr": "ambrosiantea",
 		"price": 42,
 		"category": "Drugs",
@@ -535,12 +517,6 @@
 		"defname": "AnimusStone"
 	},
 	{
-		"abr": "antibiotics",
-		"price": 30,
-		"category": "Drugs",
-		"defname": "VG_antibiotics"
-	},
-	{
 		"abr": "antigrainwarhead",
 		"price": 2000,
 		"category": "Mortar shells",
@@ -551,60 +527,6 @@
 		"price": 1500,
 		"category": "Ranged weapons",
 		"defname": "AntiMechRifle"
-	},
-	{
-		"abr": "aoceilingsunlamp",
-		"price": 129,
-		"category": "Furniture",
-		"defname": "AO_CeilSunLamp"
-	},
-	{
-		"abr": "aominiceilingsunlamp",
-		"price": 49,
-		"category": "Furniture",
-		"defname": "AO_MiniCeilSunLamp"
-	},
-	{
-		"abr": "aominisunlamp",
-		"price": 49,
-		"category": "Furniture",
-		"defname": "AO_MiniSunLamp"
-	},
-	{
-		"abr": "aosmallceilingsunlamp",
-		"price": 81,
-		"category": "Furniture",
-		"defname": "AO_SmallCeilSunLamp"
-	},
-	{
-		"abr": "aosmallsunlamp",
-		"price": 81,
-		"category": "Furniture",
-		"defname": "AO_SmallSunLamp"
-	},
-	{
-		"abr": "aosunlamp",
-		"price": 129,
-		"category": "Furniture",
-		"defname": "AO_SunLamp"
-	},
-	{
-		"abr": "applecider",
-		"price": 27,
-		"category": "Garden alcohol",
-		"defname": "cider"
-	},
-	{
-		"abr": "applesoda",
-		"price": 25,
-		"category": "Garden soda",
-		"defname": "AppleSoda"
-	},
-	{
-		"abr": "apples",
-		"price": 2,
-		"category": "Fruits",
-		"defname": "Rawapple"
 	},
 	{
 		"abr": "apricots",
@@ -865,42 +787,6 @@
 		"defname": "Gun_AssaultRifle"
 	},
 	{
-		"abr": "astartecustodes",
-		"price": 84583,
-		"category": "Animal",
-		"defname": "AdaptusCustodes"
-	},
-	{
-		"abr": "astartecustodesmeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_AdaptusCustodes"
-	},
-	{
-		"abr": "astartespacemarine",
-		"price": 29167,
-		"category": "Animal",
-		"defname": "AstarteSpaceMarine"
-	},
-	{
-		"abr": "astartespacemarinemeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_AstarteSpaceMarine"
-	},
-	{
-		"abr": "astarteadaptuscore",
-		"price": 2917,
-		"category": "Animal",
-		"defname": "AstarteAdaptusCore"
-	},
-	{
-		"abr": "astarteadaptuscoremeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_AstarteAdaptusCore"
-	},
-	{
 		"abr": "atmine(modified)",
 		"price": 232,
 		"category": "Security",
@@ -1015,12 +901,6 @@
 		"defname": "RNApparel_Backpack_Tactical_Sling"
 	},
 	{
-		"abr": "bakedpolenta",
-		"price": 42,
-		"category": "Fine Meals",
-		"defname": "bakedpolenta"
-	},
-	{
 		"abr": "balaclava",
 		"price": 74,
 		"category": "Masks",
@@ -1049,30 +929,6 @@
 		"price": 53,
 		"category": "Blade and bow",
 		"defname": "RN_BallisticKnife"
-	},
-	{
-		"abr": "bamboo",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "Bamboo"
-	},
-	{
-		"abr": "banana",
-		"price": 2,
-		"category": "Fruits",
-		"defname": "Rawbanana"
-	},
-	{
-		"abr": "bananasoda",
-		"price": 25,
-		"category": "Garden soda",
-		"defname": "BananaSoda"
-	},
-	{
-		"abr": "bandagekit",
-		"price": 10,
-		"category": "Medicine",
-		"defname": "Bandagekit"
 	},
 	{
 		"abr": "bandanafox",
@@ -1115,12 +971,6 @@
 		"price": 717,
 		"category": "Ranged weapons",
 		"defname": "Gun_BarFM"
-	},
-	{
-		"abr": "barley",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RawBarley"
 	},
 	{
 		"abr": "barrel",
@@ -1261,12 +1111,6 @@
 		"defname": "BeamSplitter"
 	},
 	{
-		"abr": "bean",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "Rawbean"
-	},
-	{
 		"abr": "beanie",
 		"price": 91,
 		"category": "Hats",
@@ -1345,18 +1189,6 @@
 		"defname": "JDSBeer_Crate"
 	},
 	{
-		"abr": "beetkvass",
-		"price": 23,
-		"category": "Garden soda",
-		"defname": "VegetableKvass"
-	},
-	{
-		"abr": "beetkvasswort",
-		"price": 17,
-		"category": "Alcohol precursor",
-		"defname": "VG_VegKvassWort"
-	},
-	{
 		"abr": "beets",
 		"price": 2,
 		"category": "Vegetarian",
@@ -1401,32 +1233,14 @@
 	{
 		"abr": "berries",
 		"price": 2,
-		"category": "Fruits",
+		"category": "Vegetarian",
 		"defname": "RawBerries"
-	},
-	{
-		"abr": "berrywine",
-		"price": 47,
-		"category": "Garden alcohol",
-		"defname": "strawberrywine"
-	},
-	{
-		"abr": "berrywinemust",
-		"price": 17,
-		"category": "Alcohol precursor",
-		"defname": "CPD_WineMust"
 	},
 	{
 		"abr": "billiardstable",
 		"price": 600,
 		"category": "Furniture",
 		"defname": "BilliardsTable"
-	},
-	{
-		"abr": "biofuel",
-		"price": 7,
-		"category": "Manufactured",
-		"defname": "VG_Biofuel"
 	},
 	{
 		"abr": "bionicarm",
@@ -1525,12 +1339,6 @@
 		"defname": "VAE_Apparel_Blouse"
 	},
 	{
-		"abr": "bluecorn",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RawBlueCorn"
-	},
-	{
 		"abr": "blueslime",
 		"price": 1000,
 		"category": "Animal",
@@ -1547,18 +1355,6 @@
 		"price": 150,
 		"category": "Eggs (unfert.)",
 		"defname": "EggSlimeBlueUnfertilized"
-	},
-	{
-		"abr": "blueberry",
-		"price": 2,
-		"category": "Fruits",
-		"defname": "Rawblueberry"
-	},
-	{
-		"abr": "blueberrysoda",
-		"price": 25,
-		"category": "Garden soda",
-		"defname": "BlueberrySoda"
 	},
 	{
 		"abr": "bluefur",
@@ -1645,12 +1441,6 @@
 		"defname": "VAE_Footwear_Boots"
 	},
 	{
-		"abr": "bowlofstew",
-		"price": 42,
-		"category": "Lavish Meals",
-		"defname": "bowlstew"
-	},
-	{
 		"abr": "bowlerhat",
 		"price": 77,
 		"category": "Headgear",
@@ -1681,12 +1471,6 @@
 		"defname": "Brazier"
 	},
 	{
-		"abr": "bread",
-		"price": 25,
-		"category": "Simple Meals",
-		"defname": "Bread"
-	},
-	{
 		"abr": "brenmkii",
 		"price": 650,
 		"category": "Ranged weapons",
@@ -1703,18 +1487,6 @@
 		"price": 333,
 		"category": "Animal",
 		"defname": "AEXP_CatBritishShorthair"
-	},
-	{
-		"abr": "brownale",
-		"price": 27,
-		"category": "Garden alcohol",
-		"defname": "BrownAle"
-	},
-	{
-		"abr": "brownmalt",
-		"price": 17,
-		"category": "Alcohol precursor",
-		"defname": "VG_BrownMalt"
 	},
 	{
 		"abr": "builder'sjacket",
@@ -1825,12 +1597,6 @@
 		"defname": "VCE_RawCabbage"
 	},
 	{
-		"abr": "cactusfruit",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RawCactusFruit"
-	},
-	{
 		"abr": "cagebrazier",
 		"price": 16,
 		"category": "Furniture",
@@ -1861,42 +1627,6 @@
 		"defname": "Leather_Camel"
 	},
 	{
-		"abr": "cannedfruit",
-		"price": 10,
-		"category": "Fruits",
-		"defname": "CannedFruit"
-	},
-	{
-		"abr": "cannedmeal",
-		"price": 28,
-		"category": "Meals",
-		"defname": "MealCannedFood"
-	},
-	{
-		"abr": "cannedmeat",
-		"price": 8,
-		"category": "Meat",
-		"defname": "CannedMeat"
-	},
-	{
-		"abr": "cannedvegetables",
-		"price": 8,
-		"category": "Vegetarian",
-		"defname": "CannedVeg"
-	},
-	{
-		"abr": "canningfactory",
-		"price": 642,
-		"category": "Production",
-		"defname": "VG_CanningFactory"
-	},
-	{
-		"abr": "canningtable",
-		"price": 483,
-		"category": "Production",
-		"defname": "CanningFactory"
-	},
-	{
 		"abr": "cape",
 		"price": 204,
 		"category": "Apparel",
@@ -1913,12 +1643,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Capybara"
-	},
-	{
-		"abr": "caramel",
-		"price": 42,
-		"category": "Sweets",
-		"defname": "Caramel"
 	},
 	{
 		"abr": "caravel",
@@ -1943,12 +1667,6 @@
 		"price": 3333,
 		"category": "Rocket launcher",
 		"defname": "RNEx_CarlGustafRL"
-	},
-	{
-		"abr": "carrots",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RawCarrots"
 	},
 	{
 		"abr": "carving",
@@ -2071,12 +1789,6 @@
 		"defname": "RNGun_CDX33PatriotLiteSn"
 	},
 	{
-		"abr": "ceilingsunlamp",
-		"price": 128,
-		"category": "Furniture",
-		"defname": "CeilingSunLamp"
-	},
-	{
 		"abr": "chainshotgun",
 		"price": 675,
 		"category": "Ranged weapons",
@@ -2105,18 +1817,6 @@
 		"price": 1667,
 		"category": "Android",
 		"defname": "CharismaMindImplant"
-	},
-	{
-		"abr": "cheese",
-		"price": 25,
-		"category": "Ingredients",
-		"defname": "cheese"
-	},
-	{
-		"abr": "cheeseburger",
-		"price": 42,
-		"category": "Fine Meals",
-		"defname": "grilledmeat"
 	},
 	{
 		"abr": "cheetah",
@@ -2183,18 +1883,6 @@
 		"price": 1333,
 		"category": "Animal",
 		"defname": "AndroidChicken"
-	},
-	{
-		"abr": "cherries",
-		"price": 2,
-		"category": "Fruits",
-		"defname": "RawCherry"
-	},
-	{
-		"abr": "cherrysoda",
-		"price": 25,
-		"category": "Garden soda",
-		"defname": "CherrySoda"
 	},
 	{
 		"abr": "chesstable",
@@ -2265,14 +1953,8 @@
 	{
 		"abr": "chocolate",
 		"price": 5,
-		"category": "Sweets",
+		"category": "Foods",
 		"defname": "Chocolate"
-	},
-	{
-		"abr": "chocolatemilk",
-		"price": 25,
-		"category": "Sweets",
-		"defname": "Chocomilk"
 	},
 	{
 		"abr": "chort",
@@ -2285,18 +1967,6 @@
 		"price": 2800,
 		"category": "Trophies",
 		"defname": "WMHT_TrophyGrandChort"
-	},
-	{
-		"abr": "cidermust",
-		"price": 17,
-		"category": "Alcohol precursor",
-		"defname": "VG_CiderMust"
-	},
-	{
-		"abr": "cigarillos",
-		"price": 17,
-		"category": "Drugs",
-		"defname": "Cigarillos"
 	},
 	{
 		"abr": "circadianassistant",
@@ -2335,18 +2005,6 @@
 		"defname": "LWM_Clothing_Rack"
 	},
 	{
-		"abr": "cloudberry",
-		"price": 2,
-		"category": "Fruits",
-		"defname": "Rawcloudberry"
-	},
-	{
-		"abr": "cloudberrysoda",
-		"price": 25,
-		"category": "Garden soda",
-		"defname": "CloudberrySoda"
-	},
-	{
 		"abr": "club",
 		"price": 141,
 		"category": "Melee weapons",
@@ -2381,24 +2039,6 @@
 		"price": 508,
 		"category": "Prosthetic",
 		"defname": "CochlearImplant"
-	},
-	{
-		"abr": "coconut",
-		"price": 2,
-		"category": "Fruits",
-		"defname": "RawCoconut"
-	},
-	{
-		"abr": "coconutsoda",
-		"price": 25,
-		"category": "Garden soda",
-		"defname": "CoconutSoda"
-	},
-	{
-		"abr": "coffeebeans",
-		"price": 7,
-		"category": "Plant matter",
-		"defname": "CPD_CoffeeBeans"
 	},
 	{
 		"abr": "coffeetable(1x1)",
@@ -2569,18 +2209,6 @@
 		"defname": "CompositePlating"
 	},
 	{
-		"abr": "compoststarter",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "VG_Compost"
-	},
-	{
-		"abr": "composterbox",
-		"price": 170,
-		"category": "Production",
-		"defname": "VG_Composterbox"
-	},
-	{
 		"abr": "compoundbow",
 		"price": 210,
 		"category": "Blade and bow",
@@ -2599,18 +2227,6 @@
 		"defname": "ControlRodActuator"
 	},
 	{
-		"abr": "cookie",
-		"price": 33,
-		"category": "Lavish Meals",
-		"defname": "cookie"
-	},
-	{
-		"abr": "cookingtools",
-		"price": 800,
-		"category": "Production",
-		"defname": "CookingTools"
-	},
-	{
 		"abr": "corgi",
 		"price": 1083,
 		"category": "Animal",
@@ -2621,24 +2237,6 @@
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawCorn"
-	},
-	{
-		"abr": "cornwort",
-		"price": 17,
-		"category": "Alcohol precursor",
-		"defname": "CPD_CornWort"
-	},
-	{
-		"abr": "cornbread",
-		"price": 25,
-		"category": "Simple Meals",
-		"defname": "Cornbread"
-	},
-	{
-		"abr": "cornmeal",
-		"price": 5,
-		"category": "Ingredients",
-		"defname": "Cornmeal"
 	},
 	{
 		"abr": "coronet",
@@ -2911,18 +2509,6 @@
 		"defname": "Joy_DartsBoard"
 	},
 	{
-		"abr": "date",
-		"price": 2,
-		"category": "Fruits",
-		"defname": "Rawdate"
-	},
-	{
-		"abr": "datesoda",
-		"price": 25,
-		"category": "Garden soda",
-		"defname": "DateSoda"
-	},
-	{
 		"abr": "ddm4v1",
 		"price": 800,
 		"category": "AR style rifle",
@@ -3035,12 +2621,6 @@
 		"price": 9,
 		"category": "Textiles",
 		"defname": "DevilstrandCloth"
-	},
-	{
-		"abr": "de-worm",
-		"price": 53,
-		"category": "Drugs",
-		"defname": "Deworm"
 	},
 	{
 		"abr": "diningchair",
@@ -3157,12 +2737,6 @@
 		"defname": "Dresser"
 	},
 	{
-		"abr": "driedfruit",
-		"price": 23,
-		"category": "Fruits",
-		"defname": "driedfruit"
-	},
-	{
 		"abr": "drillarm",
 		"price": 708,
 		"category": "Prosthetic",
@@ -3259,12 +2833,6 @@
 		"defname": "EarBandage"
 	},
 	{
-		"abr": "eggplant",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "Raweggplant"
-	},
-	{
 		"abr": "ekimmara",
 		"price": 750,
 		"category": "Animal",
@@ -3293,18 +2861,6 @@
 		"price": 1292,
 		"category": "Production",
 		"defname": "VFE_TableDrugLabElectric"
-	},
-	{
-		"abr": "electricmillingstone",
-		"price": 276,
-		"category": "Production",
-		"defname": "ElectricGrindStone"
-	},
-	{
-		"abr": "electricoven",
-		"price": 367,
-		"category": "Production",
-		"defname": "ElectricOven"
 	},
 	{
 		"abr": "electricsmelter",
@@ -3583,12 +3139,6 @@
 		"defname": "FermentingBarrel"
 	},
 	{
-		"abr": "fertilizer",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "RawFertilizer"
-	},
-	{
 		"abr": "fgm-148javelin",
 		"price": 5000,
 		"category": "One-use launcher",
@@ -3629,18 +3179,6 @@
 		"price": 1817,
 		"category": "Trophies",
 		"defname": "WMHT_TrophyGrandFiend"
-	},
-	{
-		"abr": "fig",
-		"price": 2,
-		"category": "Fruits",
-		"defname": "Rawfig"
-	},
-	{
-		"abr": "figsoda",
-		"price": 25,
-		"category": "Garden soda",
-		"defname": "FigSoda"
 	},
 	{
 		"abr": "filecabinet",
@@ -3739,18 +3277,6 @@
 		"defname": "VAE_Apparel_FleeceShirt"
 	},
 	{
-		"abr": "flour",
-		"price": 7,
-		"category": "Ingredients",
-		"defname": "Flour"
-	},
-	{
-		"abr": "fluez",
-		"price": 37,
-		"category": "Drugs",
-		"defname": "VG_FluEz"
-	},
-	{
 		"abr": "fmm24-29",
 		"price": 650,
 		"category": "Ranged weapons",
@@ -3817,18 +3343,6 @@
 		"defname": "LWM_Food_Basket"
 	},
 	{
-		"abr": "foodpreptable",
-		"price": 139,
-		"category": "Production",
-		"defname": "Canningstove"
-	},
-	{
-		"abr": "foodshelf2x2",
-		"price": 333,
-		"category": "Furniture",
-		"defname": "VG_FoodShelf"
-	},
-	{
 		"abr": "foot",
 		"price": 167,
 		"category": "Natural",
@@ -3883,42 +3397,6 @@
 		"defname": "AEXP_FrenchBulldog"
 	},
 	{
-		"abr": "fruitdrink",
-		"price": 12,
-		"category": "Sweets",
-		"defname": "Fruitdrink"
-	},
-	{
-		"abr": "fruitkvass",
-		"price": 23,
-		"category": "Garden soda",
-		"defname": "FruitKvass"
-	},
-	{
-		"abr": "fruitkvasswort",
-		"price": 17,
-		"category": "Alcohol precursor",
-		"defname": "VG_FruitKvassWort"
-	},
-	{
-		"abr": "fruitmash",
-		"price": 17,
-		"category": "Alcohol precursor",
-		"defname": "VG_FruitMash"
-	},
-	{
-		"abr": "fruitpieslice",
-		"price": 42,
-		"category": "Simple Meals",
-		"defname": "BlueberryPie"
-	},
-	{
-		"abr": "fruitshine",
-		"price": 33,
-		"category": "Garden alcohol",
-		"defname": "Fruitshine"
-	},
-	{
 		"abr": "fuelrods",
 		"price": 1667,
 		"category": "Nuclear fuel",
@@ -3929,12 +3407,6 @@
 		"price": 3333,
 		"category": "Nuclear fuel",
 		"defname": "FuelRodsMOX"
-	},
-	{
-		"abr": "fueledfoodpreptable",
-		"price": 139,
-		"category": "Production",
-		"defname": "HandCanningstove"
 	},
 	{
 		"abr": "fueledsmelter",
@@ -3953,12 +3425,6 @@
 		"price": 265,
 		"category": "Production",
 		"defname": "FueledStove"
-	},
-	{
-		"abr": "fueledsweetstable",
-		"price": 217,
-		"category": "Production",
-		"defname": "FueledCandyTable"
 	},
 	{
 		"abr": "g28",
@@ -4007,18 +3473,6 @@
 		"price": 153,
 		"category": "Furniture",
 		"defname": "GameOfUrBoard"
-	},
-	{
-		"abr": "gardencoffee",
-		"price": 13,
-		"category": "Sweets",
-		"defname": "Coffee"
-	},
-	{
-		"abr": "gardentea",
-		"price": 13,
-		"category": "Sweets",
-		"defname": "Cuptea"
 	},
 	{
 		"abr": "gasheater",
@@ -4079,18 +3533,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Gazelle"
-	},
-	{
-		"abr": "geneseed",
-		"price": 333,
-		"category": "Drugs",
-		"defname": "GeneSeed"
-	},
-	{
-		"abr": "geneseed(custodes)",
-		"price": 20000,
-		"category": "Drugs",
-		"defname": "GeneSeedCustodes"
 	},
 	{
 		"abr": "genetherapy-2",
@@ -4357,12 +3799,6 @@
 		"defname": "Gold"
 	},
 	{
-		"abr": "goldfernleaves",
-		"price": 6,
-		"category": "Resource plants",
-		"defname": "RawGoldLeaf"
-	},
-	{
 		"abr": "goldeneye",
 		"price": 47,
 		"category": "Prosthetic",
@@ -4397,18 +3833,6 @@
 		"price": 15,
 		"category": "Eggs (unfert.)",
 		"defname": "EggGooseUnfertilized"
-	},
-	{
-		"abr": "gooseberry",
-		"price": 2,
-		"category": "Fruits",
-		"defname": "Rawgooseberry"
-	},
-	{
-		"abr": "gooseberrysoda",
-		"price": 25,
-		"category": "Garden soda",
-		"defname": "GooseberrySoda"
 	},
 	{
 		"abr": "gorilla",
@@ -4459,18 +3883,6 @@
 		"defname": "VCE_RawApple"
 	},
 	{
-		"abr": "grapesoda",
-		"price": 25,
-		"category": "Garden soda",
-		"defname": "GrapeSoda"
-	},
-	{
-		"abr": "grapes",
-		"price": 2,
-		"category": "Fruits",
-		"defname": "Rawgrape"
-	},
-	{
 		"abr": "greatdane",
 		"price": 1083,
 		"category": "Animal",
@@ -4501,36 +3913,6 @@
 		"defname": "EggSlimeUnfertilized"
 	},
 	{
-		"abr": "grilledcheesesandwich",
-		"price": 33,
-		"category": "Simple Meals",
-		"defname": "grilledcheese"
-	},
-	{
-		"abr": "grilledkabob",
-		"price": 30,
-		"category": "Simple Meals",
-		"defname": "Kabob"
-	},
-	{
-		"abr": "grilledpolenta",
-		"price": 42,
-		"category": "Fine Meals",
-		"defname": "grilledpolenta"
-	},
-	{
-		"abr": "grilledsteak",
-		"price": 30,
-		"category": "Simple Meals",
-		"defname": "Grilledsteak"
-	},
-	{
-		"abr": "grilledvegetables",
-		"price": 30,
-		"category": "Simple Meals",
-		"defname": "Grilledveg"
-	},
-	{
 		"abr": "grizzlybear",
 		"price": 1167,
 		"category": "Animal",
@@ -4547,102 +3929,6 @@
 		"price": 800,
 		"category": "Bullpup rifle",
 		"defname": "RNGun_Groza4AR"
-	},
-	{
-		"abr": "guestandroidpod",
-		"price": 282,
-		"category": "Furniture",
-		"defname": "ATPP_AndroidPodGuest"
-	},
-	{
-		"abr": "guestandroidupgradestation",
-		"price": 1142,
-		"category": "Furniture",
-		"defname": "AndroidOperationBedGuest"
-	},
-	{
-		"abr": "guestbed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestcryptosleepsuspender",
-		"price": 733,
-		"category": "Furniture",
-		"defname": "Bed_CryptoBedGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": 290,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guestergonomicbed",
-		"price": 450,
-		"category": "Furniture",
-		"defname": "Bed_ErgonomicGuest"
-	},
-	{
-		"abr": "guestergonomicdoublebed",
-		"price": 867,
-		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomicGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": 667,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestm7pod",
-		"price": 1483,
-		"category": "Furniture",
-		"defname": "ATPP_AndroidPodMechGuest"
-	},
-	{
-		"abr": "guestoperatingtable",
-		"price": 508,
-		"category": "Furniture",
-		"defname": "Bed_OperatingTableGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": 1467,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
-	},
-	{
-		"abr": "guestroyalposterbed",
-		"price": 2008,
-		"category": "Furniture",
-		"defname": "Bed_KingsizeGuest"
-	},
-	{
-		"abr": "guestsimplebed",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "Bed_SimpleGuest"
-	},
-	{
-		"abr": "guestslabbed",
-		"price": 111,
-		"category": "Furniture",
-		"defname": "Bed_StoneSlabGuest"
 	},
 	{
 		"abr": "guineapig",
@@ -4705,12 +3991,6 @@
 		"defname": "RNApparel_Holsters_Shoulder"
 	},
 	{
-		"abr": "hardcandy",
-		"price": 42,
-		"category": "Sweets",
-		"defname": "Hardcandy"
-	},
-	{
 		"abr": "hardhat",
 		"price": 164,
 		"category": "Headgear",
@@ -4743,7 +4023,7 @@
 	{
 		"abr": "hay",
 		"price": 1,
-		"category": "Animal Feed",
+		"category": "Foods",
 		"defname": "Hay"
 	},
 	{
@@ -4781,24 +4061,6 @@
 		"price": 8,
 		"category": "Drugs",
 		"defname": "HearthBrew"
-	},
-	{
-		"abr": "heatedceilngsunlamp",
-		"price": 467,
-		"category": "Furniture",
-		"defname": "HeatedceilngSunLamp"
-	},
-	{
-		"abr": "heatedsunlamp",
-		"price": 467,
-		"category": "Furniture",
-		"defname": "HeatedSunLamp"
-	},
-	{
-		"abr": "heatedsunlampcolumn",
-		"price": 248,
-		"category": "Furniture",
-		"defname": "HeatedSunlampColumn"
 	},
 	{
 		"abr": "heater",
@@ -4997,18 +4259,6 @@
 		"price": 542,
 		"category": "Art",
 		"defname": "VFE_HologramOn"
-	},
-	{
-		"abr": "honey",
-		"price": 13,
-		"category": "Ingredients",
-		"defname": "Honey"
-	},
-	{
-		"abr": "honeymead",
-		"price": 18,
-		"category": "Drugs",
-		"defname": "Mead"
 	},
 	{
 		"abr": "hood",
@@ -5233,18 +4483,6 @@
 		"defname": "Meat_Ibex"
 	},
 	{
-		"abr": "ibuprofen",
-		"price": 18,
-		"category": "Drugs",
-		"defname": "VG_Ibuprofen"
-	},
-	{
-		"abr": "icecream",
-		"price": 42,
-		"category": "Sweets",
-		"defname": "icecream"
-	},
-	{
 		"abr": "iedantigrainwarheadtrap",
 		"price": 2008,
 		"category": "Security",
@@ -5353,12 +4591,6 @@
 		"defname": "JDSIndustrial_Dumpster"
 	},
 	{
-		"abr": "industrialfermentingbarrel",
-		"price": 433,
-		"category": "Production",
-		"defname": "VG_LargeFermentingBarrel"
-	},
-	{
 		"abr": "industrialradio",
 		"price": 433,
 		"category": "Recreation",
@@ -5431,12 +4663,6 @@
 		"defname": "Facility_IVDrip"
 	},
 	{
-		"abr": "ironwood",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "VG_IronWoodLog"
-	},
-	{
 		"abr": "iwinegev",
 		"price": 650,
 		"category": "LMG and GPMG",
@@ -5453,12 +4679,6 @@
 		"price": 8,
 		"category": "Raw resources",
 		"defname": "Jade"
-	},
-	{
-		"abr": "jadecrystal",
-		"price": 2,
-		"category": "Resource plants",
-		"defname": "RawJadeLeaf"
 	},
 	{
 		"abr": "jaguar",
@@ -5559,7 +4779,7 @@
 	{
 		"abr": "kibble",
 		"price": 2,
-		"category": "Animal Feed",
+		"category": "Foods",
 		"defname": "Kibble"
 	},
 	{
@@ -5597,18 +4817,6 @@
 		"price": 327,
 		"category": "Misc",
 		"defname": "VFE_KitchenSinkCabinet"
-	},
-	{
-		"abr": "kiwi",
-		"price": 2,
-		"category": "Fruits",
-		"defname": "RawKiwi"
-	},
-	{
-		"abr": "kiwisoda",
-		"price": 25,
-		"category": "Garden soda",
-		"defname": "KiwiSoda"
 	},
 	{
 		"abr": "kneespike",
@@ -5657,18 +4865,6 @@
 		"price": 425,
 		"category": "Shotgun",
 		"defname": "RNGun_KSGS"
-	},
-	{
-		"abr": "kvasssoda",
-		"price": 23,
-		"category": "Garden soda",
-		"defname": "KvassSoda"
-	},
-	{
-		"abr": "kvasssodawort",
-		"price": 17,
-		"category": "Alcohol precursor",
-		"defname": "VG_KvassSodaWort"
 	},
 	{
 		"abr": "l115a3sd",
@@ -6187,7 +5383,7 @@
 		"defname": "RNGun_M27IAR_SD"
 	},
 	{
-		"abr": "m3a1"greasegun"",
+		"abr": "m3a1greasegun",
 		"price": 292,
 		"category": "Ranged weapons",
 		"defname": "Gun_M3a1greasegunSMG"
@@ -6451,12 +5647,6 @@
 		"defname": "RNGun_Makarov"
 	},
 	{
-		"abr": "makiroll",
-		"price": 35,
-		"category": "Fine Meals",
-		"defname": "MakiRoll"
-	},
-	{
 		"abr": "mammothgoldpumpkins",
 		"price": 7,
 		"category": "Vegetarian",
@@ -6473,18 +5663,6 @@
 		"price": 458,
 		"category": "Animal",
 		"defname": "AEXP_Mandrill"
-	},
-	{
-		"abr": "mango",
-		"price": 2,
-		"category": "Fruits",
-		"defname": "RawMango"
-	},
-	{
-		"abr": "mangosoda",
-		"price": 25,
-		"category": "Garden soda",
-		"defname": "MangoSoda"
 	},
 	{
 		"abr": "marbleblocks",
@@ -6553,12 +5731,6 @@
 		"defname": "RNEx_MBTLAWRL"
 	},
 	{
-		"abr": "meadbase",
-		"price": 17,
-		"category": "Alcohol precursor",
-		"defname": "VG_MeadBase"
-	},
-	{
 		"abr": "mealtrayrack",
 		"price": 255,
 		"category": "Furniture",
@@ -6569,18 +5741,6 @@
 		"price": 254,
 		"category": "Furniture",
 		"defname": "LWM_Meat_Hook"
-	},
-	{
-		"abr": "meatpie",
-		"price": 20,
-		"category": "Simple Meals",
-		"defname": "meatpie"
-	},
-	{
-		"abr": "mecha-gone",
-		"price": 117,
-		"category": "Drugs",
-		"defname": "MechaGone"
 	},
 	{
 		"abr": "mechaniteswarm",
@@ -6801,7 +5961,7 @@
 	{
 		"abr": "milk",
 		"price": 5,
-		"category": "Ingredients",
+		"category": "Animal products",
 		"defname": "Milk"
 	},
 	{
@@ -6811,40 +5971,10 @@
 		"defname": "RNEx_MilkorMGL"
 	},
 	{
-		"abr": "millingstone",
-		"price": 143,
-		"category": "Production",
-		"defname": "GrindStone"
-	},
-	{
 		"abr": "mindscrew",
 		"price": 350,
 		"category": "Prosthetic",
 		"defname": "Mindscrew"
-	},
-	{
-		"abr": "miniceilingsunlamp",
-		"price": 49,
-		"category": "Furniture",
-		"defname": "MiniCeilingSunLamp"
-	},
-	{
-		"abr": "miniceilngheatedsunlamp",
-		"price": 375,
-		"category": "Furniture",
-		"defname": "HeatedMiniceilngSunLamp"
-	},
-	{
-		"abr": "miniheatedsunlamp",
-		"price": 375,
-		"category": "Furniture",
-		"defname": "HeatedMiniSunLamp"
-	},
-	{
-		"abr": "minisunlamp",
-		"price": 49,
-		"category": "Furniture",
-		"defname": "MiniSunLamp"
 	},
 	{
 		"abr": "minigun",
@@ -7177,12 +6307,6 @@
 		"defname": "WoolMuffalo"
 	},
 	{
-		"abr": "muffin",
-		"price": 42,
-		"category": "Fine Meals",
-		"defname": "muffin"
-	},
-	{
 		"abr": "multi-analyzer",
 		"price": 1700,
 		"category": "Misc",
@@ -7199,12 +6323,6 @@
 		"price": 4167,
 		"category": "Archotech",
 		"defname": "MuscleStimulator"
-	},
-	{
-		"abr": "mushroom",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Rawmushroom"
 	},
 	{
 		"abr": "muskox",
@@ -7235,12 +6353,6 @@
 		"price": 692,
 		"category": "Drugs",
 		"defname": "Myrol"
-	},
-	{
-		"abr": "mysterysoda",
-		"price": 25,
-		"category": "Garden soda",
-		"defname": "MysterySoda"
 	},
 	{
 		"abr": "n.solutionunit",
@@ -7411,12 +6523,6 @@
 		"defname": "Neurotrainer_Social"
 	},
 	{
-		"abr": "neutroflowerpetals",
-		"price": 2,
-		"category": "Plant matter",
-		"defname": "NeutroPetals"
-	},
-	{
 		"abr": "neutroamine",
 		"price": 10,
 		"category": "Manufactured",
@@ -7427,12 +6533,6 @@
 		"price": 1583,
 		"category": "Oil",
 		"defname": "NeutroamineRefiner"
-	},
-	{
-		"abr": "nigiri",
-		"price": 27,
-		"category": "Fine Meals",
-		"defname": "Nigiri"
 	},
 	{
 		"abr": "norwegianforestcat",
@@ -7501,12 +6601,6 @@
 		"defname": "Joy_InudstrialComputer"
 	},
 	{
-		"abr": "olive",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RawOlive"
-	},
-	{
 		"abr": "onions",
 		"price": 2,
 		"category": "Vegetarian",
@@ -7523,18 +6617,6 @@
 		"price": 30,
 		"category": "Drugs",
 		"defname": "Oracalium"
-	},
-	{
-		"abr": "orange",
-		"price": 2,
-		"category": "Fruits",
-		"defname": "Raworange"
-	},
-	{
-		"abr": "orangesoda",
-		"price": 25,
-		"category": "Garden soda",
-		"defname": "OrangeSoda"
 	},
 	{
 		"abr": "orbitalbombardmenttargeter",
@@ -7625,12 +6707,6 @@
 		"price": 128,
 		"category": "Furniture",
 		"defname": "Light_Streetlamp"
-	},
-	{
-		"abr": "oven",
-		"price": 212,
-		"category": "Production",
-		"defname": "Oven"
 	},
 	{
 		"abr": "overalls",
@@ -7795,18 +6871,6 @@
 		"defname": "VWE_Gun_PDW"
 	},
 	{
-		"abr": "peach",
-		"price": 2,
-		"category": "Fruits",
-		"defname": "Rawpeach"
-	},
-	{
-		"abr": "peachsoda",
-		"price": 25,
-		"category": "Garden soda",
-		"defname": "PeachSoda"
-	},
-	{
 		"abr": "pears",
 		"price": 2,
 		"category": "Raw fruits",
@@ -7915,12 +6979,6 @@
 		"defname": "Joy_Piano"
 	},
 	{
-		"abr": "pickledvegetable",
-		"price": 22,
-		"category": "Vegetarian",
-		"defname": "PickledVeg"
-	},
-	{
 		"abr": "pig",
 		"price": 333,
 		"category": "Animal",
@@ -7939,28 +6997,10 @@
 		"defname": "Pila"
 	},
 	{
-		"abr": "pileofdirt",
-		"price": 1,
-		"category": "Raw resources",
-		"defname": "VG_PileofDirt"
-	},
-	{
 		"abr": "pillar",
 		"price": 450,
 		"category": "Art",
 		"defname": "VFE_Pillar"
-	},
-	{
-		"abr": "pineapple",
-		"price": 2,
-		"category": "Fruits",
-		"defname": "Rawpineapple"
-	},
-	{
-		"abr": "pineapplesoda",
-		"price": 25,
-		"category": "Garden soda",
-		"defname": "PineappleSoda"
 	},
 	{
 		"abr": "pinnipedleather",
@@ -7979,12 +7019,6 @@
 		"price": 50,
 		"category": "Oil",
 		"defname": "pipelineValve"
-	},
-	{
-		"abr": "pizza",
-		"price": 42,
-		"category": "Lavish Meals",
-		"defname": "pizza"
 	},
 	{
 		"abr": "pkm",
@@ -8045,12 +7079,6 @@
 		"price": 15,
 		"category": "Raw resources",
 		"defname": "Plasteel"
-	},
-	{
-		"abr": "plasteelbulbchunks",
-		"price": 6,
-		"category": "Resource plants",
-		"defname": "RawPlasteelLeaf"
 	},
 	{
 		"abr": "plasteelframecoverings",
@@ -8131,12 +7159,6 @@
 		"defname": "Bear_Polar"
 	},
 	{
-		"abr": "polenta",
-		"price": 23,
-		"category": "Vegetarian",
-		"defname": "RawPolenta"
-	},
-	{
 		"abr": "polymerantifreeze",
 		"price": 17,
 		"category": "Drugs",
@@ -8165,12 +7187,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Pig"
-	},
-	{
-		"abr": "porridge",
-		"price": 27,
-		"category": "Simple Meals",
-		"defname": "Porridge"
 	},
 	{
 		"abr": "portablechemfuelpoweredgenerator",
@@ -8599,12 +7615,6 @@
 		"defname": "Gun_PumpShotgun"
 	},
 	{
-		"abr": "pumpkin",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "Rawpumpkin"
-	},
-	{
 		"abr": "punchingbag",
 		"price": 375,
 		"category": "Furniture",
@@ -8729,12 +7739,6 @@
 		"price": 333,
 		"category": "Animal",
 		"defname": "Fox_Red"
-	},
-	{
-		"abr": "redlentil",
-		"price": 3,
-		"category": "Meat",
-		"defname": "RawRedLentil"
 	},
 	{
 		"abr": "redslime",
@@ -8873,12 +7877,6 @@
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawRice"
-	},
-	{
-		"abr": "ricemash",
-		"price": 17,
-		"category": "Alcohol precursor",
-		"defname": "CPD_RiceMash"
 	},
 	{
 		"abr": "rnapparelbench",
@@ -9073,12 +8071,6 @@
 		"defname": "Apparel_ShirtRuffle"
 	},
 	{
-		"abr": "rum",
-		"price": 37,
-		"category": "Garden alcohol",
-		"defname": "rum"
-	},
-	{
 		"abr": "rxneuralchip",
 		"price": 250,
 		"category": "Android",
@@ -9109,28 +8101,10 @@
 		"defname": "RNGun_Saiga12S"
 	},
 	{
-		"abr": "sake",
-		"price": 32,
-		"category": "Garden alcohol",
-		"defname": "saki"
-	},
-	{
 		"abr": "sakuranbo",
 		"price": 2,
 		"category": "Raw fruits",
 		"defname": "VCE_RawCherry"
-	},
-	{
-		"abr": "salt",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "ChunkSalt"
-	},
-	{
-		"abr": "saltedmeat",
-		"price": 8,
-		"category": "Meat",
-		"defname": "SaltedMeat"
 	},
 	{
 		"abr": "sandstoneblocks",
@@ -9343,12 +8317,6 @@
 		"defname": "Sil"
 	},
 	{
-		"abr": "silage",
-		"price": 2,
-		"category": "Animal Feed",
-		"defname": "Silage"
-	},
-	{
 		"abr": "silentjaw",
 		"price": 583,
 		"category": "Bionic",
@@ -9359,12 +8327,6 @@
 		"price": 2,
 		"category": "Raw resources",
 		"defname": "Silver"
-	},
-	{
-		"abr": "silverflowerpetals",
-		"price": 0,
-		"category": "Resource plants",
-		"defname": "RawSilverLeaf"
 	},
 	{
 		"abr": "simplebed",
@@ -9553,24 +8515,6 @@
 		"defname": "Bin_Small"
 	},
 	{
-		"abr": "smallceilingsunlamp",
-		"price": 81,
-		"category": "Furniture",
-		"defname": "SmallCeilingSunLamp"
-	},
-	{
-		"abr": "smallceilngheatedsunlamp",
-		"price": 433,
-		"category": "Furniture",
-		"defname": "HeatedceilngSmallSunLamp"
-	},
-	{
-		"abr": "smallheatedsunlamp",
-		"price": 433,
-		"category": "Furniture",
-		"defname": "HeatedSmallSunLamp"
-	},
-	{
 		"abr": "smallrug",
 		"price": 184,
 		"category": "Art",
@@ -9593,12 +8537,6 @@
 		"price": 275,
 		"category": "Art",
 		"defname": "VFE_StatueSmall"
-	},
-	{
-		"abr": "smallsunlamp",
-		"price": 81,
-		"category": "Furniture",
-		"defname": "SmallSunLamp"
 	},
 	{
 		"abr": "smallvanometricpowercell",
@@ -9661,12 +8599,6 @@
 		"defname": "Apparel_SmokepopBelt"
 	},
 	{
-		"abr": "smoothie",
-		"price": 42,
-		"category": "Sweets",
-		"defname": "smoothie"
-	},
-	{
 		"abr": "sneakingsuitfox",
 		"price": 708,
 		"category": "Combat uniform",
@@ -9691,12 +8623,6 @@
 		"defname": "RNGun_SNIPEXM75Sn"
 	},
 	{
-		"abr": "snowbeet",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "Rawsnowbeet"
-	},
-	{
 		"abr": "snowhare",
 		"price": 83,
 		"category": "Animal",
@@ -9713,12 +8639,6 @@
 		"price": 232,
 		"category": "Pistol",
 		"defname": "RNGun_MK23P_Loud"
-	},
-	{
-		"abr": "sodatable",
-		"price": 302,
-		"category": "Production",
-		"defname": "CPD_DrinksTable"
 	},
 	{
 		"abr": "soldierimplant",
@@ -9791,12 +8711,6 @@
 		"price": 198,
 		"category": "Furniture",
 		"defname": "Seat_SquareChair"
-	},
-	{
-		"abr": "squash",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "Rawsquash"
 	},
 	{
 		"abr": "squirrel",
@@ -9913,12 +8827,6 @@
 		"defname": "SteelPlating"
 	},
 	{
-		"abr": "steelshrooms",
-		"price": 1,
-		"category": "Resource plants",
-		"defname": "RawSteelLeaf"
-	},
-	{
 		"abr": "stenmkii",
 		"price": 252,
 		"category": "Ranged weapons",
@@ -9947,12 +8855,6 @@
 		"price": 458,
 		"category": "Grenades",
 		"defname": "Weapon_Stielhandgranate24gnde"
-	},
-	{
-		"abr": "stirfry",
-		"price": 42,
-		"category": "Fine Meals",
-		"defname": "stirfry"
 	},
 	{
 		"abr": "stomach",
@@ -9991,24 +8893,6 @@
 		"defname": "StructureGel"
 	},
 	{
-		"abr": "sugar",
-		"price": 7,
-		"category": "Ingredients",
-		"defname": "Sugar"
-	},
-	{
-		"abr": "sugarcanemash",
-		"price": 17,
-		"category": "Alcohol precursor",
-		"defname": "VG_CaneMash"
-	},
-	{
-		"abr": "sugarcane",
-		"price": 3,
-		"category": "Ingredients",
-		"defname": "Rawsugarcane"
-	},
-	{
 		"abr": "suitjacket",
 		"price": 327,
 		"category": "Apparel",
@@ -10037,18 +8921,6 @@
 		"price": 128,
 		"category": "Furniture",
 		"defname": "SunLamp"
-	},
-	{
-		"abr": "sunlampcolumn",
-		"price": 195,
-		"category": "Furniture",
-		"defname": "SunlampColumn"
-	},
-	{
-		"abr": "sunlampcolumnao",
-		"price": 195,
-		"category": "Furniture",
-		"defname": "SunlampColumnAO"
 	},
 	{
 		"abr": "sunglasses",
@@ -10141,18 +9013,6 @@
 		"defname": "Nanoswarm_shell"
 	},
 	{
-		"abr": "sweetbun",
-		"price": 42,
-		"category": "Fine Meals",
-		"defname": "sweetbun"
-	},
-	{
-		"abr": "sweetstable",
-		"price": 217,
-		"category": "Production",
-		"defname": "CandyTable"
-	},
-	{
 		"abr": "synthamiderefiner",
 		"price": 1167,
 		"category": "Oil",
@@ -10211,12 +9071,6 @@
 		"price": 758,
 		"category": "Oil",
 		"defname": "SynthyleneRefiner"
-	},
-	{
-		"abr": "syrup",
-		"price": 13,
-		"category": "Garden soda",
-		"defname": "CPD_Syrup"
 	},
 	{
 		"abr": "t1android",
@@ -10285,12 +9139,6 @@
 		"defname": "RNGun_TAC50Sn"
 	},
 	{
-		"abr": "tacos",
-		"price": 25,
-		"category": "Fine Meals",
-		"defname": "Tacos"
-	},
-	{
 		"abr": "tacticalcorneaimplant",
 		"price": 4167,
 		"category": "Archotech",
@@ -10319,12 +9167,6 @@
 		"price": 50,
 		"category": "Footwear",
 		"defname": "RNFootwear_TacticalSocks"
-	},
-	{
-		"abr": "taffy",
-		"price": 42,
-		"category": "Sweets",
-		"defname": "Taffy"
 	},
 	{
 		"abr": "tailorcabinet",
@@ -10379,12 +9221,6 @@
 		"price": 67,
 		"category": "Rimatomics Product",
 		"defname": "TargetingChip"
-	},
-	{
-		"abr": "tealeaves",
-		"price": 3,
-		"category": "Plant matter",
-		"defname": "Rawtea"
 	},
 	{
 		"abr": "teargasshell",
@@ -10445,985 +9281,7 @@
 		"price": 1667,
 		"category": "Techprints",
 		"defname": "Techprint_MutagenThree"
-	},
-	{
-		"abr": "techprint(neuralcomputation)",
-		"price": 3333,
-		"category": "Techprints",
-		"defname": "Techprint_NeuralComputation"
-	},
-	{
-		"abr": "techprint(poisonsynthesis)",
-		"price": 1667,
-		"category": "Techprints",
-		"defname": "Techprint_VenomSynthesis"
-	},
-	{
-		"abr": "techprint(skinhardening)",
-		"price": 3333,
-		"category": "Techprints",
-		"defname": "Techprint_SkinHardening"
-	},
-	{
-		"abr": "techprint(specializedlimbs)",
-		"price": 1667,
-		"category": "Techprints",
-		"defname": "Techprint_SpecializedLimbs"
-	},
-	{
-		"abr": "techprofsubpersonacore",
-		"price": 1667,
-		"category": "Items",
-		"defname": "TechprofSubpersonaCore"
-	},
-	{
-		"abr": "telescope",
-		"price": 583,
-		"category": "Recreation",
-		"defname": "Telescope"
-	},
-	{
-		"abr": "tequila",
-		"price": 40,
-		"category": "Garden alcohol",
-		"defname": "tequila"
-	},
-	{
-		"abr": "thompsonm1a1",
-		"price": 392,
-		"category": "Ranged weapons",
-		"defname": "Gun_ThompsonM1A1SMG"
-	},
-	{
-		"abr": "thompsonsmg",
-		"price": 417,
-		"category": "SMG and PDW",
-		"defname": "RNGun_ThompsonSMG_PDW"
-	},
-	{
-		"abr": "thrumbo",
-		"price": 6667,
-		"category": "Animal",
-		"defname": "Thrumbo"
-	},
-	{
-		"abr": "thrumbohorn",
-		"price": 1333,
-		"category": "Items",
-		"defname": "ThrumboHorn"
-	},
-	{
-		"abr": "thrumbomeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Thrumbo"
-	},
-	{
-		"abr": "thrumbofur",
-		"price": 23,
-		"category": "Leathers",
-		"defname": "Leather_Thrumbo"
-	},
-	{
-		"abr": "tiger",
-		"price": 1083,
-		"category": "Animal",
-		"defname": "AEXP_Tiger"
-	},
-	{
-		"abr": "tigerleather",
-		"price": 12,
-		"category": "Leathers",
-		"defname": "AEXP_Leather_Tiger"
-	},
-	{
-		"abr": "tigermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_AEXP_Tiger"
-	},
-	{
-		"abr": "timberwolf",
-		"price": 583,
-		"category": "Animal",
-		"defname": "Wolf_Timber"
-	},
-	{
-		"abr": "tissueprinter",
-		"price": 3900,
-		"category": "Production",
-		"defname": "TableOrgans"
-	},
-	{
-		"abr": "tobacco",
-		"price": 2,
-		"category": "Plant matter",
-		"defname": "RawTobacco"
-	},
-	{
-		"abr": "tofu",
-		"price": 23,
-		"category": "Meat",
-		"defname": "Rawtofu"
-	},
-	{
-		"abr": "tomatoes",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RawTomatoes"
-	},
-	{
-		"abr": "toolbox",
-		"price": 4092,
-		"category": "Furniture",
-		"defname": "JDSTool_Box"
-	},
-	{
-		"abr": "toolcabinet",
-		"price": 642,
-		"category": "Misc",
-		"defname": "ToolCabinet"
-	},
-	{
-		"abr": "tophat",
-		"price": 94,
-		"category": "Headgear",
-		"defname": "Apparel_HatTop"
-	},
-	{
-		"abr": "tornadogenerator",
-		"price": 1333,
-		"category": "Ranged weapons",
-		"defname": "TornadoGenerator"
-	},
-	{
-		"abr": "tortoise",
-		"price": 333,
-		"category": "Animal",
-		"defname": "Tortoise"
-	},
-	{
-		"abr": "tortoiseegg(fert.)",
-		"price": 38,
-		"category": "Eggs (fert.)",
-		"defname": "EggTortoiseFertilized"
-	},
-	{
-		"abr": "tortoisemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Tortoise"
-	},
-	{
-		"abr": "toughskingland",
-		"price": 1717,
-		"category": "Bionic",
-		"defname": "ToughskinGland"
-	},
-	{
-		"abr": "toxicgasshell",
-		"price": 92,
-		"category": "Mortar shells",
-		"defname": "Shell_GasToxic"
-	},
-	{
-		"abr": "tracksuitjacketblue",
-		"price": 275,
-		"category": "Casual jackets",
-		"defname": "RNApparel_Tracksuit_Blue"
-	},
-	{
-		"abr": "tracksuitjacketred",
-		"price": 275,
-		"category": "Casual jackets",
-		"defname": "RNApparel_Tracksuit_Red"
-	},
-	{
-		"abr": "trainers",
-		"price": 158,
-		"category": "Footwear",
-		"defname": "RNFootwear_Generic_Trainers"
-	},
-	{
-		"abr": "trainers(5.11recon)",
-		"price": 158,
-		"category": "Footwear",
-		"defname": "RNFootwear_511RECON_Trainers"
-	},
-	{
-		"abr": "trainers(newbalance775)",
-		"price": 158,
-		"category": "Footwear",
-		"defname": "RNFootwear_NewBalance775_Trainers"
-	},
-	{
-		"abr": "trainers(nikeairjordan)",
-		"price": 158,
-		"category": "Footwear",
-		"defname": "RNFootwear_NikeAirJordan_Trainers"
-	},
-	{
-		"abr": "trainers(nikerunallday)",
-		"price": 158,
-		"category": "Footwear",
-		"defname": "RNFootwear_NikeRunallday_Trainers"
-	},
-	{
-		"abr": "trapperhat",
-		"price": 130,
-		"category": "Headgear",
-		"defname": "VAE_Headgear_TrapperHat"
-	},
-	{
-		"abr": "trenchcoatbrown",
-		"price": 327,
-		"category": "Casual jackets",
-		"defname": "RNApparel_TrenchCoat_Brown"
-	},
-	{
-		"abr": "trenchcoatgray",
-		"price": 327,
-		"category": "Casual jackets",
-		"defname": "RNApparel_TrenchCoat_Gray"
-	},
-	{
-		"abr": "trenchcoatpubg",
-		"price": 327,
-		"category": "Casual jackets",
-		"defname": "RNApparel_TrenchCoat_PUBG"
-	},
-	{
-		"abr": "tribalheaddress",
-		"price": 203,
-		"category": "Headgear",
-		"defname": "Apparel_TribalHeaddress"
-	},
-	{
-		"abr": "tribalkilt",
-		"price": 144,
-		"category": "Apparel",
-		"defname": "VAE_Apparel_TribalKilt"
-	},
-	{
-		"abr": "tribalponcho",
-		"price": 144,
-		"category": "Apparel",
-		"defname": "VAE_Apparel_TribalPoncho"
-	},
-	{
-		"abr": "tribalwear",
-		"price": 211,
-		"category": "Apparel",
-		"defname": "Apparel_TribalA"
-	},
-	{
-		"abr": "tricorderimplant",
-		"price": 2667,
-		"category": "Android",
-		"defname": "SurgeonMindImplant"
-	},
-	{
-		"abr": "triplerocketlauncher",
-		"price": 1667,
-		"category": "Ranged weapons",
-		"defname": "Gun_TripleRocket"
-	},
-	{
-		"abr": "trousers",
-		"price": 164,
-		"category": "Apparel",
-		"defname": "VAE_Apparel_Trousers"
-	},
-	{
-		"abr": "t-shirt",
-		"price": 143,
-		"category": "Apparel",
-		"defname": "Apparel_BasicShirt"
-	},
-	{
-		"abr": "tt-30",
-		"price": 232,
-		"category": "Pistol",
-		"defname": "RNGun_TT30P"
-	},
-	{
-		"abr": "tt-33",
-		"price": 232,
-		"category": "Ranged weapons",
-		"defname": "Gun_TT-33P"
-	},
-	{
-		"abr": "tubetelevision",
-		"price": 525,
-		"category": "Recreation",
-		"defname": "TubeTelevision"
-	},
-	{
-		"abr": "tunic",
-		"price": 143,
-		"category": "Apparel",
-		"defname": "VAE_Apparel_Tunic"
-	},
-	{
-		"abr": "tuque",
-		"price": 91,
-		"category": "Headgear",
-		"defname": "Apparel_Tuque"
-	},
-	{
-		"abr": "tuquem81",
-		"price": 91,
-		"category": "Hats",
-		"defname": "RNApparel_M81Tuque"
-	},
-	{
-		"abr": "tuquemulticam",
-		"price": 91,
-		"category": "Hats",
-		"defname": "RNApparel_MulticamTuque"
-	},
-	{
-		"abr": "turbineblades",
-		"price": 2,
-		"category": "Rimatomics Product",
-		"defname": "turbineBlade"
-	},
-	{
-		"abr": "turkey",
-		"price": 167,
-		"category": "Animal",
-		"defname": "Turkey"
-	},
-	{
-		"abr": "turkeyegg(fert.)",
-		"price": 18,
-		"category": "Eggs (fert.)",
-		"defname": "EggTurkeyFertilized"
-	},
-	{
-		"abr": "turkeymeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Turkey"
-	},
-	{
-		"abr": "type11",
-		"price": 692,
-		"category": "Ranged weapons",
-		"defname": "Gun_Type11LMG"
-	},
-	{
-		"abr": "type14nambu",
-		"price": 220,
-		"category": "Ranged weapons",
-		"defname": "Gun_Type14NambuP"
-	},
-	{
-		"abr": "type56",
-		"price": 908,
-		"category": "AK style rifle",
-		"defname": "RNGun_Type56AR"
-	},
-	{
-		"abr": "type88",
-		"price": 600,
-		"category": "DMR",
-		"defname": "RNGun_QBU88DMR"
-	},
-	{
-		"abr": "type97",
-		"price": 800,
-		"category": "Bullpup rifle",
-		"defname": "RNGun_Type97AR"
-	},
-	{
-		"abr": "type97grenade",
-		"price": 458,
-		"category": "Grenades",
-		"defname": "Weapon_Type97GNDE"
-	},
-	{
-		"abr": "type99",
-		"price": 742,
-		"category": "AMR",
-		"defname": "RNGun_M99AMR"
-	},
-	{
-		"abr": "type99",
-		"price": 775,
-		"category": "Ranged weapons",
-		"defname": "Gun_Type99LMG"
-	},
-	{
-		"abr": "type99arisaka",
-		"price": 342,
-		"category": "Ranged weapons",
-		"defname": "Gun_Type99ArisakaR"
-	},
-	{
-		"abr": "ump45",
-		"price": 433,
-		"category": "SMG and PDW",
-		"defname": "RNGun_UMP45_PDW"
-	},
-	{
-		"abr": "ump45hrt",
-		"price": 433,
-		"category": "SMG and PDW",
-		"defname": "RNGun_UMP45HRT_PDW"
-	},
-	{
-		"abr": "ump45sd",
-		"price": 433,
-		"category": "SMG and PDW",
-		"defname": "RNGun_UMP45SD_PDW"
-	},
-	{
-		"abr": "uncuredplasteel",
-		"price": 3,
-		"category": "Raw resources",
-		"defname": "UncuredPlasteel"
-	},
-	{
-		"abr": "uncuredsynthamidecomposite",
-		"price": 3,
-		"category": "Synthamide",
-		"defname": "UncuredComposite"
-	},
-	{
-		"abr": "undistilledvodka",
-		"price": 3,
-		"category": "Alcohol precursor",
-		"defname": "CPD_VodkaPrecursor"
-	},
-	{
-		"abr": "unstablepowercell",
-		"price": 667,
-		"category": "Special",
-		"defname": "UnstablePowerCell"
-	},
-	{
-		"abr": "upgradecabinet",
-		"price": 717,
-		"category": "Furniture",
-		"defname": "AndroidOperationKit"
-	},
-	{
-		"abr": "upgradekit",
-		"price": 50,
-		"category": "Manufactured",
-		"defname": "RepairKitAT"
-	},
-	{
-		"abr": "uranium",
-		"price": 10,
-		"category": "Raw resources",
-		"defname": "Uranium"
-	},
-	{
-		"abr": "uraniumpellets",
-		"price": 3,
-		"category": "Rimatomics Product",
-		"defname": "UraniumPellets"
-	},
-	{
-		"abr": "uraniumrootbulbs",
-		"price": 2,
-		"category": "Resource plants",
-		"defname": "RawUraniumLeaf"
-	},
-	{
-		"abr": "urn",
-		"price": 70,
-		"category": "Furniture",
-		"defname": "Urn"
-	},
-	{
-		"abr": "ursa",
-		"price": 692,
-		"category": "Drugs",
-		"defname": "Ursa"
-	},
-	{
-		"abr": "usm1",
-		"price": 558,
-		"category": "Ranged weapons",
-		"defname": "Gun_USM1C"
-	},
-	{
-		"abr": "usm2",
-		"price": 667,
-		"category": "Ranged weapons",
-		"defname": "Gun_USM2C"
-	},
-	{
-		"abr": "usas-12",
-		"price": 667,
-		"category": "Shotgun",
-		"defname": "RNGun_USAS12S"
-	},
-	{
-		"abr": "usp45sd",
-		"price": 232,
-		"category": "Pistol",
-		"defname": "RNGun_USP45SD"
-	},
-	{
-		"abr": "uts-15",
-		"price": 425,
-		"category": "Shotgun",
-		"defname": "RNGun_UTS15S"
-	},
-	{
-		"abr": "uzi",
-		"price": 315,
-		"category": "SMG and PDW",
-		"defname": "RNGun_Uzi_PDW"
-	},
-	{
-		"abr": "uzisd",
-		"price": 315,
-		"category": "SMG and PDW",
-		"defname": "RNGun_UziSD_PDW"
-	},
-	{
-		"abr": "vanometricpowercell",
-		"price": 2000,
-		"category": "Special",
-		"defname": "VanometricPowerCell"
-	},
-	{
-		"abr": "veganeggsubstitute",
-		"price": 3,
-		"category": "Eggs (unfert.)",
-		"defname": "VeganEgg"
-	},
-	{
-		"abr": "venison",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Deer"
-	},
-	{
-		"abr": "venomfangs",
-		"price": 592,
-		"category": "Prosthetic",
-		"defname": "VenomFangs"
-	},
-	{
-		"abr": "venomtalon",
-		"price": 592,
-		"category": "Prosthetic",
-		"defname": "VenomTalon"
-	},
-	{
-		"abr": "vitalscentre",
-		"price": 1125,
-		"category": "Misc",
-		"defname": "Facility_VitalsCentre"
-	},
-	{
-		"abr": "vitalsmonitor",
-		"price": 358,
-		"category": "Misc",
-		"defname": "VitalsMonitor"
-	},
-	{
-		"abr": "vodka",
-		"price": 27,
-		"category": "Garden alcohol",
-		"defname": "vodka"
-	},
-	{
-		"abr": "vssvintorez",
-		"price": 467,
-		"category": "DMR",
-		"defname": "RNGun_VSSDMR"
-	},
-	{
-		"abr": "vx0neuralchip",
-		"price": 417,
-		"category": "Android",
-		"defname": "ATPP_VX0Chip"
-	},
-	{
-		"abr": "vx1neuralchip",
-		"price": 1333,
-		"category": "Android",
-		"defname": "ATPP_VX1Chip"
-	},
-	{
-		"abr": "vx2neuralchip",
-		"price": 3333,
-		"category": "Android",
-		"defname": "ATPP_VX2Chip"
-	},
-	{
-		"abr": "vx3neuralchip",
-		"price": 6667,
-		"category": "Android",
-		"defname": "ATPP_VX3Chip"
-	},
-	{
-		"abr": "wa2000",
-		"price": 600,
-		"category": "DMR",
-		"defname": "RNGun_WA2000DMR"
-	},
-	{
-		"abr": "wake-up",
-		"price": 58,
-		"category": "Drugs",
-		"defname": "WakeUp"
-	},
-	{
-		"abr": "walrus",
-		"price": 917,
-		"category": "Animal",
-		"defname": "AEXP_Walrus"
-	},
-	{
-		"abr": "walrustusk",
-		"price": 133,
-		"category": "Items",
-		"defname": "AEXP_WalrusTusk"
-	},
-	{
-		"abr": "walterp38",
-		"price": 178,
-		"category": "Ranged weapons",
-		"defname": "Gun_WalterP38P"
-	},
-	{
-		"abr": "walthermpl",
-		"price": 234,
-		"category": "SMG and PDW",
-		"defname": "RNGun_WaltherMPL_PDW"
-	},
-	{
-		"abr": "waltherppk",
-		"price": 200,
-		"category": "Pistol",
-		"defname": "RNGun_WaltherPPK"
-	},
-	{
-		"abr": "warmask",
-		"price": 101,
-		"category": "Headgear",
-		"defname": "Apparel_WarMask"
-	},
-	{
-		"abr": "warveil",
-		"price": 75,
-		"category": "Headgear",
-		"defname": "Apparel_WarVeil"
-	},
-	{
-		"abr": "wardrobe",
-		"price": 285,
-		"category": "Furniture",
-		"defname": "Table_Wardrobe"
-	},
-	{
-		"abr": "warg",
-		"price": 750,
-		"category": "Animal",
-		"defname": "Warg"
-	},
-	{
-		"abr": "wargmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Warg"
-	},
-	{
-		"abr": "warhammer",
-		"price": 608,
-		"category": "Melee weapons",
-		"defname": "MeleeWeapon_Warhammer"
-	},
-	{
-		"abr": "watermelon",
-		"price": 2,
-		"category": "Fruits",
-		"defname": "Rawwatermelon"
-	},
-	{
-		"abr": "watermelonsoda",
-		"price": 25,
-		"category": "Garden soda",
-		"defname": "WatermelonSoda"
-	},
-	{
-		"abr": "weaponrack",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "Shelf_WeaponRack"
-	},
-	{
-		"abr": "weaponscabinet",
-		"price": 254,
-		"category": "Furniture",
-		"defname": "LWM_WeaponsCabinet"
-	},
-	{
-		"abr": "weaponslocker",
-		"price": 237,
-		"category": "Furniture",
-		"defname": "LWM_WeaponsLocker"
-	},
-	{
-		"abr": "webbingalice",
-		"price": 57,
-		"category": "Accessories",
-		"defname": "RNApparel_Harness_ALICE"
-	},
-	{
-		"abr": "webbingmolle",
-		"price": 57,
-		"category": "Accessories",
-		"defname": "RNApparel_Harness_MOLLE"
-	},
-	{
-		"abr": "welshterrier",
-		"price": 417,
-		"category": "Animal",
-		"defname": "AEXP_WelshTerrier"
-	},
-	{
-		"abr": "werewolf",
-		"price": 750,
-		"category": "Animal",
-		"defname": "WMH_Werewolf"
-	},
-	{
-		"abr": "werewolftrophy",
-		"price": 650,
-		"category": "Trophies",
-		"defname": "WMHT_TrophyLargeWerewolf"
-	},
-	{
-		"abr": "wheat",
-		"price": 3,
-		"category": "Vegetarian",
-		"defname": "Rawwheat"
-	},
-	{
-		"abr": "whisky",
-		"price": 33,
-		"category": "Garden alcohol",
-		"defname": "whisky"
-	},
-	{
-		"abr": "wildboar",
-		"price": 333,
-		"category": "Animal",
-		"defname": "WildBoar"
-	},
-	{
-		"abr": "wildebeest",
-		"price": 567,
-		"category": "Animal",
-		"defname": "AEXP_Wildebeest"
-	},
-	{
-		"abr": "wildebeestpelt",
-		"price": 5,
-		"category": "Leathers",
-		"defname": "AEXP_Leather_Wildebeest"
-	},
-	{
-		"abr": "wine",
-		"price": 47,
-		"category": "Garden alcohol",
-		"defname": "Wine"
-	},
-	{
-		"abr": "winemust",
-		"price": 17,
-		"category": "Alcohol precursor",
-		"defname": "VG_GrapeMust"
-	},
-	{
-		"abr": "wolfmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Wolf_Timber"
-	},
-	{
-		"abr": "wolfskin",
-		"price": 5,
-		"category": "Leathers",
-		"defname": "Leather_Wolf"
-	},
-	{
-		"abr": "wood",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "WoodLog"
-	},
-	{
-		"abr": "woodenfoot",
-		"price": 65,
-		"category": "Simple parts",
-		"defname": "WoodenFoot"
-	},
-	{
-		"abr": "wort",
-		"price": 4,
-		"category": "Alcohol precursor",
-		"defname": "Wort"
-	},
-	{
-		"abr": "wraith",
-		"price": 292,
-		"category": "Animal",
-		"defname": "WMH_Wraith"
-	},
-	{
-		"abr": "wraithtrophy",
-		"price": 517,
-		"category": "Trophies",
-		"defname": "WMHT_TrophyLargeWraith"
-	},
-	{
-		"abr": "wyvern",
-		"price": 583,
-		"category": "Animal",
-		"defname": "WMH_Wyvern"
-	},
-	{
-		"abr": "wyverntrophy(grand)",
-		"price": 1308,
-		"category": "Trophies",
-		"defname": "WMHT_TrophyGrandWyvern"
-	},
-	{
-		"abr": "xd-s",
-		"price": 285,
-		"category": "Pistol",
-		"defname": "RNGun_HS2000P"
-	},
-	{
-		"abr": "xm-15",
-		"price": 800,
-		"category": "AR style rifle",
-		"defname": "RNGun_XM15AR"
-	},
-	{
-		"abr": "xm177",
-		"price": 700,
-		"category": "Ranged weapons",
-		"defname": "Gun_XM177C"
-	},
-	{
-		"abr": "xm25",
-		"price": 3333,
-		"category": "Grenade launcher",
-		"defname": "RNEx_XM25GL"
-	},
-	{
-		"abr": "xm8",
-		"price": 800,
-		"category": "Assault rifle",
-		"defname": "RNGun_XM8AR"
-	},
-	{
-		"abr": "yak",
-		"price": 533,
-		"category": "Animal",
-		"defname": "Yak"
-	},
-	{
-		"abr": "yakbeef",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Yak"
-	},
-	{
-		"abr": "yayo",
-		"price": 35,
-		"category": "Drugs",
-		"defname": "Yayo"
-	},
-	{
-		"abr": "yogurt",
-		"price": 42,
-		"category": "Sweets",
-		"defname": "yogurt"
-	},
-	{
-		"abr": "yorkshireterrier",
-		"price": 167,
-		"category": "Animal",
-		"defname": "YorkshireTerrier"
-	},
-	{
-		"abr": "yorkshireterriermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_YorkshireTerrier"
-	},
-	{
-		"abr": "zastavam07",
-		"price": 883,
-		"category": "Bolt action",
-		"defname": "RNGun_ZastavaM07Sn"
-	},
-	{
-		"abr": "zastavam21",
-		"price": 908,
-		"category": "AK style rifle",
-		"defname": "RNGun_ZastavaM21AR"
-	},
-	{
-		"abr": "zastavam70",
-		"price": 908,
-		"category": "AK style rifle",
-		"defname": "RNGun_ZastavaM70AR"
-	},
-	{
-		"abr": "zastavam70ab2",
-		"price": 908,
-		"category": "AK style rifle",
-		"defname": "RNGun_ZastavaM70AB2AR"
-	},
-	{
-		"abr": "zastavam76",
-		"price": 600,
-		"category": "DMR",
-		"defname": "RNGun_ZastavaM76DMR"
-	},
-	{
-		"abr": "zastavam84",
-		"price": 700,
-		"category": "LMG and GPMG",
-		"defname": "RNGun_ZastavaM84LMG"
-	},
-	{
-		"abr": "zastavam92",
-		"price": 475,
-		"category": "SMG and PDW",
-		"defname": "RNGun_ZastavaM92_PDW"
-	},
-	{
-		"abr": "zebra",
-		"price": 1000,
-		"category": "Animal",
-		"defname": "AEXP_Zebra"
-	},
-	{
-		"abr": "zeushammer",
-		"price": 3333,
-		"category": "Melee weapons",
-		"defname": "MeleeWeapon_Zeushammer"
-	},
-	{
-		"abr": "zoologyimplant",
-		"price": 2667,
-		"category": "Android",
-		"defname": "AnimalMindImplant"
 	}
 	],
-	"total": 1904
+	"total": 1725
 }
